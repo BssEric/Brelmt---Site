@@ -33,11 +33,17 @@ h1 {
     font-size: 100px;
 }
 
+#btn{
+    text-decoration: none;
+    color:white;
+    font-weight: normal;
+    font-size: 20px;
+}
+
 a {
     align-items: center;
     text-align: center;
     text-decoration: none;
-
     color: black;
     font-weight: bold;
     font-size: 25px;
@@ -127,7 +133,7 @@ p3 {
 }
 
 video {
-    border-radius: 350px;
+    border-radius: 330px;
     overflow: hidden;
 }
 
